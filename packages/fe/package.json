@@ -1,0 +1,7 @@
+{
+  "name": "@workspace/fe",
+  "version": "1.0.0",
+  "dependencies": {
+    "@workspace/common": "*"
+  }
+}
